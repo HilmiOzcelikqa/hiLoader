@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.apache.jmeter.save.ScriptWrapper>
+  <version></version>
+  <testPlan serialization="custom">
+    <org.apache.jorphan.collections.HashTree>
+      <default>
+        <data>
+          <java.util.Map_-Entry>
+            <java.lang.String>threadGroup</java.lang.String>
+            <org.apache.jorphan.collections.HashTree serialization="custom">
+              <org.apache.jorphan.collections.HashTree>
+                <default>
+                  <data>
+                    <java.util.Map_-Entry>
+                      <org.apache.jmeter.threads.ThreadGroup serialization="custom">
+                        <org.apache.jmeter.testelement.AbstractTestElement>
+                          <default>
+                            <propMap class="java.util.Collections$SynchronizedMap"
